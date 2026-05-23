@@ -1,4 +1,4 @@
-# Image Processing Studio Pro
+# Image Denoising
 
 A GUI-based Image Processing application built using Python and OpenCV.
 
