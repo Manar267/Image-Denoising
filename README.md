@@ -49,8 +49,6 @@ presentation/
 
 A demo video is included in the repository.
 
-## Author
-
 ## Team Members
 
 - Manar Samir
