@@ -41,7 +41,6 @@ python main.py
 
 ```text
 main.py
-screenshots/
 demo/
 presentation/
 ```
@@ -50,12 +49,14 @@ presentation/
 
 A demo video is included in the repository.
 
-## Screenshots
-
-![Wavelet](screenshots/wavelet.png)
-
-![FFT](screenshots/fft.png)
-
 ## Author
 
-Developed by Your Name
+## Team Members
+
+- Manar Samir
+- Rodaina Mahmoud
+- Haneen Wael
+- Anan Mohamed
+- Menna Abdallah
+- Rodaina Hassan
+- Mariam Ahmed
